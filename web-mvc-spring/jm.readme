@@ -1,0 +1,52 @@
+appfuse 跑起来
+------------------------------------------------
+mysql 数据库 : mysql 驱动 OK
+sitemesh：模板框架 OK
+urlrewrite：url 控制 OK
+spring mvc：mvc 框架 OK
+spring security ： 安全框架
+spring-security-ldap:ldap 应用！
+spring-security-web
+spring-security-config
+spring-security-acl
+spring-security-core
+spring-security-taglibs:
+国际化 ：通过配置mvn 插件来实现。
+验证：spring mvc 自带form 表单。
+jquery ：jquery
+mail:
+velocity:
+velocity-tools:
+jstl
+servlet:
+hibernate-search: 
+cxf:
+commons-beansUtils:
+commons-validator:
+junit:
+spring-test:
+subethasmtp-wiser: 针对邮件的操作
+hamcrest: 测试应用
+hibernate:
+ehcache:缓存
+ehcache-web:
+mockito:测试应用
+log4j2:
+aspectj：
+fileupload:
+jackson:
+dwr:
+urlrewrite:
+wro4j:
+struts-menu:
+bootstrap:
+bootswatch:
+jquery-cookie:
+
+数据模拟：default-data.xml
+mail 配置： mail.properties
+
+maven 插件：
+-----------------------------------------
+dbunit-plugin
+web-test
